@@ -49,7 +49,7 @@ body {
 .navbar a {
   text-decoration: none; color: #333; font-weight: 500; transition: color 0.3s;
 }
-.navbar a:hover, .navbar a.active { color: #004c97; }
+.navbar a:hover{ color: #004c97; }
 
 /* SECTIONS */
 .section {
@@ -165,4 +165,5 @@ body {
 #caption { margin: 15px auto; text-align: center; color: #ddd; font-size: 1rem; }
 .close { position: absolute; top: 20px; right: 35px; color: #fff; font-size: 2rem; cursor: pointer; }
 .close:hover { color: #ff4444; }
+
 
