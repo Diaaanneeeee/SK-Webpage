@@ -9,7 +9,7 @@ body {
 
 /* HERO */
 .hero {
-  background: url("hero1.jpg") center/cover no-repeat;
+  background: url("img/hero1.jpg") center/cover no-repeat;
   height: 75vh;
   display: flex; align-items: center; justify-content: center;
   position: relative; text-align: center; color: #fff;
@@ -165,5 +165,6 @@ body {
 #caption { margin: 15px auto; text-align: center; color: #ddd; font-size: 1rem; }
 .close { position: absolute; top: 20px; right: 35px; color: #fff; font-size: 2rem; cursor: pointer; }
 .close:hover { color: #ff4444; }
+
 
 
